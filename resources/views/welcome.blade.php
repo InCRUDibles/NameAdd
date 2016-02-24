@@ -43,6 +43,7 @@
                 echo "AJ Wulf";
 		        echo "Jordan Mavrogeorge";
                 echo "Dena Junnila";
+                echo "Keira Menezes";
                         ?>
             </div>
         </div>
