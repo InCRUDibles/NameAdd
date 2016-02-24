@@ -41,6 +41,7 @@
                 <?php
                 echo "Coby Fielding";
                 echo "AJ Wulf";
+		echo "Jordan Mavrogeorge";
                         ?>
             </div>
         </div>
