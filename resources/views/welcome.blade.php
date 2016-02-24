@@ -45,7 +45,8 @@
                 echo "Dena Junnila";
                 echo "Keira Menezes";
                 echo "Maria Sandoval";
-                        ?>
+                echo "Patrick Bridgemon";
+                ?>
             </div>
         </div>
     </body>
