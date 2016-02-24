@@ -39,7 +39,8 @@
         <div class="container">
             <div class="content">
                 <?php
-                echo "Coby Fielding"
+                echo "Coby Fielding";
+                echo "AJ Wulf";
                         ?>
             </div>
         </div>
